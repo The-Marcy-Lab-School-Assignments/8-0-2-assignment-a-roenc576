@@ -1,4 +1,3 @@
-import API_KEY from "../config"
 import { useEffect, useState } from "react";
 import { handleFetch } from "../utils";
 
